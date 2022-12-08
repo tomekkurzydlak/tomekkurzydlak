@@ -1,4 +1,4 @@
-<h1>Hey, good to see you here on Thursday, 8 December at 19:27 CET 🙋🏻‍</h1>
+<h1>Hey, good to see you here on Thursday, 8 December, 19:36 CET 🙋🏻‍</h1>
 
 <p>I'm Tom, software engineer. I'm currently working on financial crypto-app in Python. The app is
 aggregating and analysing financial data from multiple APIs sources (Request), web scraps (Selenium) and calculating
