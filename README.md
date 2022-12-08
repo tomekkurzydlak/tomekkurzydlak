@@ -1,6 +1,6 @@
-<h1>Hey, good to see you here on Thursday, 8 December at 20:00 CET 🙋🏻‍</h1>
+<h1>Hey, good to see you here on Thursday, 8 December at 20:22 CET 🙋🏻‍</h1>
 
-<p>I'm Tom, software engineer. I'm currently working on financial crypto-app in Python. The app is
+<p>I'm Tom. I'm currently working on financial crypto-app in Python. The app is
 aggregating and analysing financial data from multiple APIs sources (Request), web scraps (Selenium) and calculating
 statistical indicators (Pandas). As a supplement to these indicators app is also forecasting coin's price performing
 Time Series Analysis (AutoTS) and visualising data (Plotly). Output data is fed to the front-end by Flask and presented
@@ -20,7 +20,7 @@ on Telegram channel</p>
   <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-B7178C?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter Notebook-FB542B?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-CC6699?style=flat-square&logo=solidity&logoColor=white" />
-  <img alt="Plotly" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=plotly&logoColor=white" />
+  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-db7092?style=flat-square&logo=plotly&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-ea2845?style=flat-square&logo=jira&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
