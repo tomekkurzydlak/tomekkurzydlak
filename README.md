@@ -17,7 +17,7 @@ on Telegram channel</p>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-311C87?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-430098?style=flat-square&logo=django&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-764ABC?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-B7178C?style=flat-square&logo=postgressql&logoColor=white" />
+  <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-B7178C?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter Notebook-E10098?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-CC6699?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Plotly" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=plotly&logoColor=white" />
