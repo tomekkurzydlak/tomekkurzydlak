@@ -1,5 +1,5 @@
 {
-  "name": "thmsgbrt",
+  "name": "tomekkurzydlak",
   "version": "1.0.0",
   "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
+    "url": "git+https://github.com/tomekkurzydlak/tomekkurzydlak.git"
   },
   "keywords": [
     "readme.md",
@@ -17,15 +17,15 @@
     "dynamic",
     "javascript"
   ],
-  "author": "Thomas Guibert",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thmsgbrt/thmsgbrt/issues"
+    "url": "https://github.com/tomekkurzydlak/tomekkurzydlak/issues"
   },
-  "homepage": "https://github.com/thmsgbrt/thmsgbrt#readme",
+  "homepage": "https://github.com/tomekkurzydlak/tomekkurzydlak#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mustache": "^4.0.1",
+    "mustache": "^4.2.0",
     "node-fetch": "^2.6.1",
     "puppeteer": "^5.1.0"
   }
