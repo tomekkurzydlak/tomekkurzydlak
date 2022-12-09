@@ -1,6 +1,6 @@
 <h1>Hey, good to see you here 🙋🏻‍</h1>
 
-<p>I'm Tom software developer. I'm currently working on financial crypto-app in Python. The app is
+<p>I'm Tom, software developer. I'm currently working on financial crypto-app in Python. The app is
 aggregating and analysing financial data from multiple APIs sources (Request), web scraps (Selenium) and calculating
 statistical indicators (Pandas). As a supplement to these indicators app is also forecasting coin's price performing
 Time Series Analysis (AutoTS) and visualising data (Plotly). Output data is fed to the front-end by Flask and presented
