@@ -4,7 +4,7 @@ name: README build
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: '0 */6 * * *'
 
@@ -13,7 +13,7 @@ jobs:
     runs-on: Ubuntu-20.04
 
     steps:
-      - name: Checkout current repository to Main branch
+      - name: Checkout current repository to Master branch
         uses: actions/checkout@v3
       - name: Setup NodeJs 16.x
         uses: actions/setup-node@v3
