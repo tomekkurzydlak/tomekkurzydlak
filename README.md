@@ -1,10 +1,7 @@
 <h1>Hey, good to see you here 🙋🏻‍</h1>
 
-<p>I'm Tom, software developer. I'm currently working on financial crypto-app in Python. The app is
-aggregating and analysing financial data from multiple APIs sources (Request), web scraps (Selenium) and calculating
-statistical indicators (Pandas). As a supplement to these indicators app is also forecasting coin's price performing
-Time Series Analysis (AutoTS) and visualising data (Plotly). Output data is fed to the front-end by Flask and presented
-on Telegram channel</p>
+<p>I'm Tom, software developer. In my over ten years career I have come across many technologies working with C, PHP, Python and SQL, designing SaaS platforms and implementing ETL solutions (Python -> Airflow DAGs) in monolith (OOP) and microservices architecture applications, utilizing frameworks like FastAPI, Flask, as well as cloud solutions like AWS EC2/S3 or GCP BigQuery. I have also acquired practical skills working with 3rd party APIs. Currently  working on financial application in Python, which is aggregating and analysing financial data from multiple APIs sources, web scraps (Selenium) and calculating statistical indicators, conducting Time Series and Natural Language Processing analyses.
+</p>
 <h3>My current stack:</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
